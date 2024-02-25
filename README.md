@@ -8,7 +8,7 @@
 
     BRANKO_MURUAGA.setSkill({
         type: "RPA Developer",
-        rpaTools: [Blue Prism]
+        rpaTools: [Blue Prism],
         code: [Javascript, HTML, CSS, Python, Java, C#, React],
         employee: true,
         aboutMe: {
