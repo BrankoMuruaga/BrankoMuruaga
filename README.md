@@ -1,7 +1,11 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7A915&center=true&vCenter=true&random=false&width=435&lines=Hi!+I'm+Branko+Muruaga" alt="Typing SVG" /></a>
+<br>
+        
+<img  src="https://github-readme-stats.vercel.app/api?username=BrankoMuruaga&&show_icons=true&theme=radical"/>
 </div>
+<br>
 
 ```javascript
     const BRANKO_MURUAGA = new Developer()
@@ -33,9 +37,6 @@
 
   
 <div align="center">
-<br>
-
-<img  src="https://github-readme-stats.vercel.app/api?username=BrankoMuruaga&&show_icons=true&theme=radical"/>
 
 <br>
 <p><b>💻 Languages and Tools</b></p>
